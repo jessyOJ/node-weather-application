@@ -1,0 +1,44 @@
+
+body{
+    color:hotpink;
+    max-width:650px;
+    font-family:Arial;
+     margin:0 auto;
+     padding: 0 20px;
+
+     display:flex;
+     flex-direction:column;
+         min-height:100vh;
+}
+.main-content{
+    flex-grow:1;
+}
+footer{
+    background-color:lavender;
+    border-top: 16px;
+    margin-top:16px;
+    padding:20px
+
+}
+header{
+    margin-top:16px;
+}
+header a{
+    color:plum;
+    font-size:16px;
+    text-decoration:none;
+    margin-right:16px;
+  
+
+}
+
+h1{
+    font-size:45px;
+  margin-bottom:16px;
+}
+.potrait{
+    width:250px
+}
+.help {
+    width: 250px
+}
